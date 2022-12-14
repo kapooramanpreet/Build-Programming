@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repo for research, please cite it as below."
+authors:
+  - family-names: Kapoor
+    given-names: Amanpreet
+    orcid: https://orcid.org/0000-0003-1340-8315
+  - family-names: Xie
+    given-names: Tianwei 
+  - family-names: Kwan
+    given-names: Leon
+  - family-names: Gardner-McCune
+    given-names: Christina
+title: "Logistics, Affordances, and Evaluation of Build Programming: A Code Reading Instructional Strategy"
+version: 1.0.0
+doi: https://doi.org/10.1145/3545945.3569756 
+date-released: 2022-12-12
+url: "https://github.com/kapooramanpreet/Build-Programming"
