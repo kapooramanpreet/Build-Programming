@@ -23,4 +23,4 @@ Install python dependencies
 
 `codeAnalyzer.py` provides metrics for all `.cpp` files of a directory with the Canvas naming convention `[student name]_[number]_[number]_[filename].cpp`. The results are outputed to the file `output.json`.
 
-![flowchart](readimage.svg)
+![readimage](https://user-images.githubusercontent.com/29406643/217935196-d6ba87d0-4a09-4eb4-9a7e-f1e15e4d8855.svg)
